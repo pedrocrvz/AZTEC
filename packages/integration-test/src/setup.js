@@ -250,7 +250,7 @@ class Setup {
              * @param {bool} runAccountRegistryTest - boolean determining whether the tests that perform Account Registry
              * related tests should be run. Set to true if so, false if not
              */
-            runAccountRegistryTests: true,
+            runAccountRegistryTests: false,
 
             /**
              * @param {bool} runUpgradeTest - boolean determining whether the test that performs a note registry upgrade
